@@ -1,0 +1,15 @@
+.left {
+    width: 45%;
+    margin-left: 25px;
+    padding: 5px;
+    border-color: black;
+    border: 2px;
+}
+
+.right {
+    width: 45%;
+    margin-right: 25px;
+    padding: 5px;
+    border-color: black;
+    border: 2px;
+}
